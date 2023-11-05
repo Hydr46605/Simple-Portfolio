@@ -1,4 +1,14 @@
 # Hydr4's Portfolio
+---
+
+![image](https://github.com/Hydr46605/Simple-Portfolio/assets/99099267/5a665494-0a4e-483d-9c3e-904baea86ea3)
+
+---
+
+![image](https://github.com/Hydr46605/Simple-Portfolio/assets/99099267/f63af590-c475-43d8-8bd8-1b9fabb2a2c4)
+
+---
+
 
 ## Description
 
